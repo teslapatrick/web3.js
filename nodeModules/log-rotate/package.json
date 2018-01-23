@@ -1,0 +1,21 @@
+{
+  "name": "log-rotate",
+  "version": "0.2.7",
+  "description": "Rotate log files with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/rotate.js"
+  },
+  "author": "Drew Stokes",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dstokes/log-rotate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dstokes/log-rotate/issues"
+  },
+  "devDependencies": {
+    "tape": "~2.1.0"
+  }
+}
